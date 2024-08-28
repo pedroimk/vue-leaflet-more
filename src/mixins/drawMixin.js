@@ -10,8 +10,8 @@ export default {
                 num: [], //最后一个点之前的点
             }, //用于标记
             // markerFeatureGroup: null,
-            markerTips: "开始",
-            markerTipsStart: "开始",
+            markerTips: "Empezar",
+            markerTipsStart: "Empezar",
             markerTipsGoon: "绘制",
             markerTipsEnd: "结束",
             markerTipsPlohgonEnd: "单击任意节点或双击结束绘制",
